@@ -1,7 +1,5 @@
 package com.baeju.narshaproject;
 
-import com.baeju.narshaproject.GitHubRepo;
-
 import java.util.List;
 
 import retrofit2.Call;
